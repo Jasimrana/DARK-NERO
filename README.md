@@ -1,6 +1,6 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V6⚜️<br></h1>
+<h1 align="center">⚜️KING KUNAL  𝘔𝘋 V6⚜️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
+<img https://i.imgur.com/Dx1LlxL.jpeg"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
@@ -22,7 +22,8 @@
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING KING b
+t BOT WE APPRECIATE YOU FOR YOUR SUPPORT
  
 # > KUMUTHU 
 # > VIHANGA
